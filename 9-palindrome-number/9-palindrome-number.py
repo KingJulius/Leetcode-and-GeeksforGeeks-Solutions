@@ -13,6 +13,7 @@ class Solution(object):
             while(i<=j):
                 if ls[i]!=ls[j]:
                     flag = False
+                    break
                 i = i+1
                 j = j-1
         elif(x==0):
