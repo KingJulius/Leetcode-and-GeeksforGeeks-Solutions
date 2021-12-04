@@ -17,7 +17,7 @@ class Solution(object):
             if root.left:
                 elements += self.inorderTraversal(root.left)
         
-            if root != "null":
+            if root.val != "null":
                 elements.append(root.val)
 
             if root.right:
