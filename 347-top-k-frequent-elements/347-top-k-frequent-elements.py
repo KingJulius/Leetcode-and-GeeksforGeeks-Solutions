@@ -3,7 +3,6 @@ class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
         res = []
         min_heap = []
-        heapq.heapify(min_heap)
         
         d = {}
         
