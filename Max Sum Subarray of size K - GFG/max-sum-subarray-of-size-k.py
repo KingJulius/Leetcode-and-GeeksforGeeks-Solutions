@@ -2,17 +2,27 @@
 class Solution:
     def maximumSumSubarray (self,K,Arr,N):
         # code here 
-        i, j, s, max_s = 0, 0, 0, 0
-        while j < len(Arr):
-            s += Arr[j]
-            if j-i+1 == K:
-                max_s = max(max_s,s)
-                s -= Arr[i]
-                i += 1
-            j += 1
+        #i, j, s, max_s = 0, 0, 0, 0
+        #while j < len(Arr):
+            #s += Arr[j]
+            #if j-i+1 == K:
+                #max_s = max(max_s,s)
+                #s -= Arr[i]
+                #i += 1
+            #j += 1
 
         
-        return max_s
+        #return max_s
+        i, j, max_sum, curr_sum = 0, 0, 0, 0
+        while j < len(Arr):
+            curr_sum += Arr[j]
+            if j - i + 1 == K:
+                max_sum = max(curr_sum, max_sum)
+                curr_sum -= Arr[i]
+                i += 1
+            j += 1
+        return max_sum
+                
 
 #{ 
 #  Driver Code Starts
