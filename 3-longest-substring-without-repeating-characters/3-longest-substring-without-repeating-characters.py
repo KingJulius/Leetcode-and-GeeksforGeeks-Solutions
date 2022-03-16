@@ -9,16 +9,13 @@ class Solution:
             else:
                 hmap[s[j]] += 1
                 
-            if len(hmap) > j-i+1:
-                j += 1
-            elif len(hmap) == j-i+1:
+            if len(hmap) == j-i+1:
                 maxLen = max(maxLen, j-i+1)
-                j += 1
             else:
                 while len(hmap) < j-i+1:
                     hmap[s[i]] -= 1
                     if hmap[s[i]] == 0:
                         hmap.pop(s[i])
                     i += 1
-                j += 1
+            j += 1
         return maxLen
