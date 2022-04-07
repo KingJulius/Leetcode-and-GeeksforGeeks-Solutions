@@ -24,19 +24,11 @@ class Solution(object):
                 ptr1 = ptr1.next
                 l2 = l2.next
                 
-        while l1:
-            temp = ListNode(l1.val)
-            ptr1.next = temp
-            ptr1 = ptr1.next
-            l1 = l1.next
-                
-        while l2:    
-            temp = ListNode(l2.val)
-            ptr1.next = temp
-            ptr1 = ptr1.next
-            l2 = l2.next
-        
+        if l1:
+            ptr1.next = l1
+  
+        if l2:    
+            ptr1.next = l2
         
         l3 = l3.next
-        
         return l3
