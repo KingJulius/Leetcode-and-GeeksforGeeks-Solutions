@@ -1,12 +1,8 @@
-class Solution(object):
-    def missingNumber(self, nums):
-        """
-        :type nums: List[int]
-        :rtype: int
-        """
-        for ele in range(len(nums)+1):
-            if ele not in nums:
-                return ele
-        
-        return None
-        
+class Solution:
+    def missingNumber(self, nums: List[int]) -> int:
+        res = 0
+        for i in range(len(nums)):
+            res ^= nums[i]
+        for i in range(len(nums)+1):
+            res ^= i
+        return res
