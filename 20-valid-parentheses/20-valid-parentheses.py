@@ -20,7 +20,7 @@ class Solution(object):
                 if (stk[-1] == "(" and c == ")") or (stk[-1] == "[" and c == "]") or (stk[-1] == "{" and c == "}"):
                     stk.pop()
                 else:
-                    stk.append(c)
+                    return False
         
         if len(stk) == 0:
             return True
