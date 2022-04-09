@@ -4,22 +4,16 @@ class Solution:
         res = []
         min_heap = []
         
-        d = {}
+        d = defaultdict(int)
         
         # Dictionary k(val):v(freq)
         for i in range(len(nums)):
-            if nums[i] not in d.keys():
-                d[nums[i]] = 1
-            else:
-                d[nums[i]] += 1
+            d[nums[i]] += 1
         
-        i = 0
         for val, freq in d.items():
             heappush(min_heap, (freq, val))
-            if i >= k:
-                print(heappop(min_heap))
-            i += 1
-
+            if len(min_heap) > k:
+                heappop(min_heap)
         
         while min_heap:
             val = heappop(min_heap)
