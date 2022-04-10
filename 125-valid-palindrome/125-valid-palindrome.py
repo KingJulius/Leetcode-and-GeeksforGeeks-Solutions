@@ -15,10 +15,6 @@ class Solution(object):
             elif (ord(char) >= 48 and ord(char) <= 57):
                 s_new += char
         
-        #print(s_new)
-        if len(s_new)==1:
-            return True
-        
         i = 0
         j = len(s_new) - 1
         
