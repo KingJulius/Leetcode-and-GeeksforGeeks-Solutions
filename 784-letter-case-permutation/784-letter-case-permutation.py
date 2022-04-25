@@ -4,17 +4,12 @@ class Solution:
         res = []
         def solve(ip, op):
             if len(ip) == 0:
-                if op not in res:
-                    res.append(op)
+                res.append(op)
                 return
-            if ip[0].isdigit():
-                op1 = op+ip[0]
-                op2 = op+ip[0]
+            if not ip[0].isdigit():
+                solve(ip[1:], op+ip[0].lower())
+                solve(ip[1:], op+ip[0].upper())
             else:
-                op1 = op+ip[0].lower()
-                op2 = op+ip[0].upper()
-            solve(ip[1:], op1)
-            solve(ip[1:], op2)
-            return
+                solve(ip[1:], op+ip[0])
         solve(s, op)
         return res
