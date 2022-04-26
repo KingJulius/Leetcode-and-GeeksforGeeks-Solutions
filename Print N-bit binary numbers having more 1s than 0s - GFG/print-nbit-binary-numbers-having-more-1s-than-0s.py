@@ -1,5 +1,4 @@
 #User function Template for python3
-import math
 class Solution:
 	def NBitBinary(self, N):
 		# code here
