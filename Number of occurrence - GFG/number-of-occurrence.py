@@ -27,8 +27,6 @@ class Solution:
         
         if lpos == -1 and rpos == -1:
             return 0
-        elif lpos == rpos:
-            return 1
         else:
             return rpos - lpos + 1
 #{ 
