@@ -4,7 +4,7 @@ class Solution:
         res = ""
         while l <= r:
             m = l + (r-l)//2
-            if ord(letters[m]) <= ord(target):
+            if letters[m] <= target:
                 l = m + 1
             else:
                 res = letters[m]
