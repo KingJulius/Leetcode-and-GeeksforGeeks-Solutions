@@ -1,9 +1,9 @@
 class Solution:
     def maxArea(self, height: List[int]) -> int:
-        # M1 Using 2 loops with i from 0 to len and j from i + 1 to len
+        # M1: Using 2 loops with i from 0 to len and j from i + 1 to len
         # O(n^2) Time Complexity - Time Exceeded for large inputs and O(1) Space Complexity
         
-        # Using 2 pointers
+        # M2: Using 2 pointers
         # O(n) Time Complexity and O(1) Space Complexity
         l, r = 0, len(height)-1
         max_area = 0
