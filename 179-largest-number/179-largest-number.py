@@ -1,12 +1,17 @@
 class Solution:
     def largestNumber(self, nums: List[int]) -> str:
-        for i in range(len(nums)):
-            nums[i] = str(nums[i])
-        def solve(n1, n2):
-            if n1+n2 > n2+n1:
-                return -1
+        def compare(num1, num2):
+            if num1+num2 > num2+num1:
+                return True
             else:
-                return 1
-        nums = sorted(nums, key=cmp_to_key(solve))
-        return str(int("".join(nums)))
-        
+                return False
+        nums = list(map(str, nums))
+        if len(nums) >= 2:
+            for i in range(len(nums)-1):
+                j = i + 1
+                while j<len(nums):
+                    if not compare(nums[i], nums[j]):
+                        nums[i], nums[j] = nums[j], nums[i]
+                    j += 1
+        res = "".join(nums)
+        return "0" if res == "0"*len(nums) else res
