@@ -4,13 +4,11 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        if len(s) == 1:
-            return 0
-        
+        count = [0]*26
+        for c in s:
+            count[ord(c)-ord('a')] += 1
         for i in range(len(s)):
-            if s.count(s[i]) == 1:
+            if count[ord(s[i]) - ord('a')] == 1:
                 return i
-        
         return -1
-      
-        
+            
