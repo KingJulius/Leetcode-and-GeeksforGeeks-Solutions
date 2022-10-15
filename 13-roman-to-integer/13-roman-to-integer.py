@@ -1,24 +1,22 @@
-class Solution(object):
-    def romanToInt(self, s):
-        """
-        :type s: str
-        :rtype: int
-        """
-        symbols = {
-            "I": 1,
-            "V": 5,
-            "X": 10,
-            "L": 50,
-            "C": 100,
-            "D": 500,
-            "M": 1000
+class Solution:
+    def romanToInt(self, s: str) -> int:
+        symbol_map = {
+            'I': 1,
+            'V': 5,
+            'X': 10,
+            'L': 50,
+            'C': 100,
+            'D': 500,
+            'M': 1000
         }
-        sum = 0
-        prev = 0
-        for i in range(len(s)-1, -1, -1):
-            if symbols[s[i]] >= prev:
-                sum += symbols[s[i]]
+        
+        tsum = symbol_map[s[-1]]
+        prev = s[-1]
+        for i in range(len(s)-2, -1, -1):
+            if symbol_map[s[i]] >= symbol_map[prev]:
+                tsum += symbol_map[s[i]]
             else:
-                sum -= symbols[s[i]]
-            prev = symbols[s[i]]
-        return sum
+                tsum -= symbol_map[s[i]]
+            prev = s[i]
+        return tsum
+            
