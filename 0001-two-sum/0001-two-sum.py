@@ -6,3 +6,4 @@ class Solution:
             if cval in hmap:
                 return [i, hmap[cval]]
             hmap[nums[i]] = i
+        
