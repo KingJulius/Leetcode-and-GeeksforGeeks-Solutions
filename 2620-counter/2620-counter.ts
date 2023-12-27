@@ -1,5 +1,4 @@
 function createCounter(n: number): () => number {
-    let currCount = n -1
     return function() {
         return n++
     }
