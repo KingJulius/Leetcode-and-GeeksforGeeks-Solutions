@@ -3,12 +3,12 @@
  * @return {Function}
  */
 var once = function(fn) {
-    let ctr = 0
+    let ctr = false
     return function(...args){
         if(ctr){
             return undefined
         }
-        ctr += 1
+        ctr = true
         return fn(...args)
     }
 };
