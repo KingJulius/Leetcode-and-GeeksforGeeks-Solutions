@@ -5,12 +5,7 @@
  * @return {number}
  */
 var reduce = function(nums, fn, init) {
-    if(nums.length === 0){
-        return init;
-    }
-    let tsum = init;
-    for (let i=0; i<nums.length; i++){
-        tsum = fn(tsum, nums[i]);
-    }
-    return tsum;
+    let acc = init
+    for (const val of nums) acc = fn(acc, val)
+    return acc
 };
