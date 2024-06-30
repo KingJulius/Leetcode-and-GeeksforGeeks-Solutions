@@ -3,18 +3,8 @@
  * @return {Function}
  */
 var compose = function(functions) {
-    // DECLARATIVE SOL
-    const fn = (acc, f) => f(acc);
-    return function(x) {
-        return functions.reduceRight(fn, x);
-    }
-    // IMPERATIVE SOL
-    // return function(x) {
-    //     for (let fn of functions.reverse()){
-    //         x = fn(x);
-    //     }
-    //     return x
-    // }
+    
+    return (x) => functions.reduceRight((acc, f) => f(acc), x)
 };
 
 /**
