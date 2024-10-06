@@ -3,15 +3,13 @@
  * @return {boolean}
  */
 var isEmpty = function(obj) {
-    // Apprach 1 (Can use Object.keys(obj).length as well) O(n) & O(n)
-    // if (JSON.stringify(obj).length <= 2){
-    //     return true
-    // }
-    // return false
-    
-    // Approach 2: O(1) & O(1)
-    for(_ in obj){
-        return false
-    }
+    // // Approach 1: JSON.stringify: T.C: O(n) & S.C: O(n)
+    // return JSON.stringify(obj).length <= 2
+
+    // // Approach 2: Using Object.keys: T.C: O(n) & S.C: O(n)
+    // return Object.keys(obj).length == 0
+
+    // Approach 3:
+    for (const _ in obj) return false
     return true
 };
