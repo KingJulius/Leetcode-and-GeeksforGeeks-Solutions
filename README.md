@@ -10,6 +10,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
 ## Simulation
@@ -19,6 +20,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
