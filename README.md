@@ -19,6 +19,7 @@
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
 | [2727-number-of-senior-citizens](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Simulation
 |  |
 | ------- |
