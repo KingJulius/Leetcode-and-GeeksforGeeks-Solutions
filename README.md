@@ -21,12 +21,14 @@
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2727-number-of-senior-citizens](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Simulation
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
+| [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -46,4 +48,5 @@
 | [0125-valid-palindrome](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0344-reverse-string) |
+| [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
 <!---LeetCode Topics End-->
