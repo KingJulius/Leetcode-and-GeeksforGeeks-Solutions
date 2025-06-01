@@ -17,6 +17,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0001-two-sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
@@ -44,6 +45,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
