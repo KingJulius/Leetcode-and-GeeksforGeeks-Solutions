@@ -16,9 +16,6 @@ var longestMonotonicSubarray = function(nums) {
             decLen = 1
         }
         maxLen = Math.max(incLen, decLen, maxLen)
-        console.log(incLen)
-        console.log(decLen)
-        console.log(maxLen)
     }
 
     return maxLen
