@@ -6,6 +6,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0205-isomorphic-strings) |
@@ -21,6 +22,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
@@ -40,12 +42,14 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
