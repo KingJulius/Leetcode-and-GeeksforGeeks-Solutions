@@ -25,6 +25,7 @@
 | [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
@@ -43,6 +44,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 ## Two Pointers
@@ -87,5 +90,10 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0191-number-of-1-bits) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
