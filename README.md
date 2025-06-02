@@ -22,6 +22,7 @@
 | [0027-remove-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0035-search-insert-position) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0374-guess-number-higher-or-lower) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
