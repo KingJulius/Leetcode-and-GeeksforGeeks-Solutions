@@ -23,6 +23,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
@@ -62,4 +63,8 @@
 |  |
 | ------- |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
