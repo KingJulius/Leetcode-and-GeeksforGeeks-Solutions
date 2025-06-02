@@ -19,6 +19,7 @@
 | [0001-two-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0027-remove-element) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
@@ -51,4 +52,8 @@
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0344-reverse-string) |
 | [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
