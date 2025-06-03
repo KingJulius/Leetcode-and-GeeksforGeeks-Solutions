@@ -30,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
@@ -108,4 +109,8 @@
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
