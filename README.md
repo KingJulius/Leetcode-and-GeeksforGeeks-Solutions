@@ -34,6 +34,7 @@
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
+| [0932-monotonic-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0932-monotonic-array) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
