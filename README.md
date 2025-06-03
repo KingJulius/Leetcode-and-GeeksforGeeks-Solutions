@@ -11,6 +11,7 @@
 | [0125-valid-palindrome](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0344-reverse-string) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
 | [2727-number-of-senior-citizens](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
@@ -29,6 +30,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
+| [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
@@ -102,4 +104,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 <!---LeetCode Topics End-->
