@@ -13,6 +13,7 @@
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0344-reverse-string) |
+| [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
 | [2727-number-of-senior-citizens](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/3379-score-of-a-string) |
@@ -88,6 +89,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
+| [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Interactive
 |  |
 | ------- |
@@ -114,4 +116,9 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
+## Sliding Window
+|  |
+| ------- |
+| [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
