@@ -30,6 +30,7 @@
 | [0136-single-number](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0169-majority-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
@@ -87,6 +88,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0374-guess-number-higher-or-lower](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
@@ -115,10 +117,12 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0238-product-of-array-except-self) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 <!---LeetCode Topics End-->
