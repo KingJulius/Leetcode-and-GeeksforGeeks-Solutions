@@ -2,10 +2,9 @@
  * @param {number} n
  */
 var TicTacToe = function(n) {
-    // [[0, 0], [0, 0], [0, 0]]
-    this.countRow = new Array(n).fill(0).map(_ => [0, 0])
-    this.countCol = new Array(n).fill(0).map(_ => [0, 0])
-    this.countDiag = [[0, 0], [0, 0]]
+    this.countRows = new Array(n).fill(0).map(_ => [0, 0])
+    this.countCols = new Array(n).fill(0).map(_ => [0, 0])
+    this.countDiags = [[0, 0], [0, 0]]
     this.target = n
 };
 
@@ -16,25 +15,30 @@ var TicTacToe = function(n) {
  * @return {number}
  */
 TicTacToe.prototype.move = function(row, col, player) {
-    let rowCount = this.countRow[row]
+    // Row
+    let rowCount = this.countRows[row]
     rowCount[player - 1] += 1
     if (rowCount[player - 1] === this.target) return player
 
-    let colCount = this.countCol[col]
+    // Cols
+    let colCount = this.countCols[col]
     colCount[player - 1] += 1
     if (colCount[player - 1] === this.target) return player
-
+    
+    // Diags
     let diagCount
     if (row === col) {
-        diagCount = this.countDiag[0]
+        diagCount = this.countDiags[0]
         diagCount[player - 1] += 1
         if (diagCount[player - 1] === this.target) return player
     }
-    if (row === this.target - col - 1) {
-        diagCount = this.countDiag[1]
+
+    if (row = this.target - 1 - col) {
+        diagCount = this.countDiags[1]
         diagCount[player - 1] += 1
         if (diagCount[player - 1] === this.target) return player
     }
+
 
     return 0
 };
