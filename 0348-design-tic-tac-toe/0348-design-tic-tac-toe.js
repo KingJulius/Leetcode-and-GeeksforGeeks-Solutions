@@ -33,7 +33,7 @@ TicTacToe.prototype.move = function(row, col, player) {
         if (diagCount[player - 1] === this.target) return player
     }
 
-    if (row = this.target - 1 - col) {
+    if (row === this.target - 1 - col) {
         diagCount = this.countDiags[1]
         diagCount[player - 1] += 1
         if (diagCount[player - 1] === this.target) return player
