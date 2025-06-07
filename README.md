@@ -36,6 +36,7 @@
 | [0238-product-of-array-except-self](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
+| [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0932-monotonic-array) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
@@ -46,6 +47,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
 ## Hash Table
@@ -58,6 +60,7 @@
 | [0205-isomorphic-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
+| [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 ## Sorting
 |  |
 | ------- |
@@ -116,6 +119,7 @@
 |  |
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
+| [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -128,4 +132,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
+## Matrix
+|  |
+| ------- |
+| [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 <!---LeetCode Topics End-->
