@@ -3,17 +3,16 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function(s) {
-    let maxLen = 0
     const hmap = {}
-    let l = 0
+    let res = 0, l = 0
     for (let r = 0; r < s.length; r++) {
         hmap[s[r]] = (hmap[s[r]] || 0) + 1
-        while (r-l+1 > Object.keys(hmap).length) {
+        while (hmap[s[r]] > 1) {
             hmap[s[l]] -= 1
             if (hmap[s[l]] === 0) delete hmap[s[l]]
-            l++
+            l += 1
         }
-        maxLen = Math.max(maxLen, r-l+1)
+        res = Math.max(res, r-l+1)
     }
-    return maxLen
+    return res
 };
