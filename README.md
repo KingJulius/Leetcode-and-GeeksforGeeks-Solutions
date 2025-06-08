@@ -18,6 +18,7 @@
 | [0344-reverse-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0344-reverse-string) |
 | [1321-get-equal-substrings-within-budget](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1321-get-equal-substrings-within-budget) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
+| [2555-design-sql](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2555-design-sql) |
 | [2727-number-of-senior-citizens](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3379-score-of-a-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/3379-score-of-a-string) |
 ## Array
@@ -46,6 +47,7 @@
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
 | [2058-concatenation-of-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2058-concatenation-of-array) |
 | [2551-apply-operations-to-an-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2551-apply-operations-to-an-array) |
+| [2555-design-sql](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2555-design-sql) |
 | [2727-number-of-senior-citizens](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2727-number-of-senior-citizens) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Simulation
@@ -67,6 +69,7 @@
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 | [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2555-design-sql](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2555-design-sql) |
 ## Sorting
 |  |
 | ------- |
@@ -129,6 +132,7 @@
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
 | [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
+| [2555-design-sql](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/2555-design-sql) |
 ## Prefix Sum
 |  |
 | ------- |
