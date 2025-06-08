@@ -5,16 +5,14 @@
  * @return {number}
  */
 var equalSubstring = function(s, t, maxCost) {
-    let maxLen = 0
-    let start = 0
-    let currCost = 0
-    for (let i = 0; i < s.length; i++) {
-        currCost += Math.abs(s[i].charCodeAt(0) - t[i].charCodeAt(0))
+    let l = 0, currCost = 0, res = 0
+    for (let r = 0; r < s.length; r++) {
+        currCost += Math.abs(s[r].charCodeAt(0) - t[r].charCodeAt(0))
         while (currCost > maxCost) {
-            currCost -= Math.abs(s[start].charCodeAt(0)-t[start].charCodeAt(0))
-            start++
+            currCost -= Math.abs(s[l].charCodeAt(0) - t[l].charCodeAt(0))
+            l += 1
         }
-        maxLen = Math.max(maxLen, i-start+1)
+        res = Math.max(res, r-l+1)
     }
-    return maxLen
+    return res
 };
