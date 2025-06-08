@@ -38,6 +38,7 @@
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0283-move-zeroes](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0283-move-zeroes) |
 | [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0792-binary-search](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0792-binary-search) |
 | [0932-monotonic-array](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0932-monotonic-array) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
@@ -62,6 +63,7 @@
 | [0217-contains-duplicate](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 | [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Sorting
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -142,8 +145,13 @@
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0224-basic-calculator) |
+| [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 ## Recursion
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0224-basic-calculator) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
