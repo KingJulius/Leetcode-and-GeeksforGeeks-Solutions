@@ -11,6 +11,7 @@
 | [0058-length-of-last-word](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0242-valid-anagram) |
 | [0271-encode-and-decode-strings](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0271-encode-and-decode-strings) |
 | [0344-reverse-string](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0344-reverse-string) |
@@ -87,6 +88,7 @@
 ## Stack
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0224-basic-calculator) |
 | [1720-crawler-log-folder](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/1720-crawler-log-folder) |
 ## Binary Search
 |  |
@@ -136,4 +138,12 @@
 |  |
 | ------- |
 | [0348-design-tic-tac-toe](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0348-design-tic-tac-toe) |
+## Math
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/KingJulius/Leetcode-and-GeeksforGeeks-Solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
