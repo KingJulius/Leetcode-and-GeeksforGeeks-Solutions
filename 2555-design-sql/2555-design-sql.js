@@ -6,9 +6,9 @@ var SQL = function(names, columns) {
     this.table = {}
     for (let i = 0; i < names.length; i++) {
         this.table[names[i]] = {
-            colsLength: columns[i],
-            rows: {},
-            id: 0
+            length: columns[i],
+            row: {},
+            nextId: 1
         }
     }
 };
@@ -19,10 +19,10 @@ var SQL = function(names, columns) {
  * @return {boolean}
  */
 SQL.prototype.ins = function(name, row) {
-    if (!(name in this.table) || row.length !== this.table[name].colsLength) return false
-    const newId = this.table[name].id + 1
-    this.table[name].rows[newId] = row
-    this.table[name].id = newId
+    if (!(name in this.table) || row.length !== this.table[name].length) return false
+    const id = this.table[name].nextId
+    this.table[name].row[id] = row
+    this.table[name].nextId += 1
     return true
 };
 
@@ -32,8 +32,8 @@ SQL.prototype.ins = function(name, row) {
  * @return {void}
  */
 SQL.prototype.rmv = function(name, rowId) {
-    if (!(name in this.table) || !(rowId in this.table[name].rows)) return false
-    delete this.table[name].rows[rowId]
+    if (!(name in this.table) || !(rowId in this.table[name].row)) return false
+    delete this.table[name].row[rowId]
 };
 
 /** 
@@ -43,8 +43,8 @@ SQL.prototype.rmv = function(name, rowId) {
  * @return {string}
  */
 SQL.prototype.sel = function(name, rowId, columnId) {
-    if (!(name in this.table) || !(rowId in this.table[name].rows)) return "<null>"
-    return this.table[name].rows[rowId][columnId - 1] ?? '<null>'
+    if (!(name in this.table) || !(rowId in this.table[name].row)) return "<null>"
+    return this.table[name].row[rowId]?.[columnId - 1] ?? "<null>"
 };
 
 /** 
@@ -53,12 +53,12 @@ SQL.prototype.sel = function(name, rowId, columnId) {
  */
 SQL.prototype.exp = function(name) {
     if (!(name in this.table)) return []
-    let ex = []
-    for (const [id, rows] of Object.entries(this.table[name].rows)) {
-        let data = [id, ...rows].join(',')
-        ex.push(data)
+    const res = []
+    for (let [id, row] of Object.entries(this.table[name].row)) {
+        let data = [id, ...row].join(',')
+        res.push(data)
     }
-    return ex
+    return res
 };
 
 /** 
