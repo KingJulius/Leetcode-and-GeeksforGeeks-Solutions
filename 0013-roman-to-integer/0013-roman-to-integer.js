@@ -3,7 +3,7 @@
  * @return {number}
  */
 var romanToInt = function(s) {
-    let map = {
+    const map = {
         'I': 1,
         'V': 5,
         'X': 10,
@@ -12,13 +12,12 @@ var romanToInt = function(s) {
         'D': 500,
         'M': 1000
     }
-    let tSum = map[s[s.length - 1]]
-    let prev = s[s.length - 1]
+    let tSum = map[s[s.length-1]]
+    let prev = s[s.length-1]
     for (let i = s.length-2; i >= 0; i--) {
         if (map[s[i]] >= map[prev]) tSum += map[s[i]]
         else tSum -= map[s[i]]
-        prev = s[i]
+        prev = s[i] 
     }
-
     return tSum
 };
