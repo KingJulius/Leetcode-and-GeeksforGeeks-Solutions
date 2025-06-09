@@ -15,7 +15,7 @@ var TicTacToe = function(n) {
  * @return {number}
  */
 TicTacToe.prototype.move = function(row, col, player) {
-    let rC= this.rowCount[row]
+    let rC = this.rowCount[row]
     rC[player - 1] += 1
     if (rC[player - 1] === this.target) return player
 
@@ -23,19 +23,21 @@ TicTacToe.prototype.move = function(row, col, player) {
     cC[player - 1] += 1
     if (cC[player - 1] === this.target) return player
 
+    let dC
     if (row === col) {
-        let dC = this.diagCount[0]
+        dC = this.diagCount[0]
         dC[player - 1] += 1
         if (dC[player - 1] === this.target) return player
     }
 
     if (row === this.target - 1 - col) {
-        let dC = this.diagCount[1]
+        dC = this.diagCount[1]
         dC[player - 1] += 1
         if (dC[player - 1] === this.target) return player
     }
 
     return 0
+
 };
 
 /** 
