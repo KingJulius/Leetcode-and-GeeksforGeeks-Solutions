@@ -23,21 +23,19 @@ TicTacToe.prototype.move = function(row, col, player) {
     cC[player - 1] += 1
     if (cC[player - 1] === this.target) return player
 
-    let dC
+    let dC = this.diagCount
     if (row === col) {
-        dC = this.diagCount[0]
-        dC[player - 1] += 1
-        if (dC[player - 1] === this.target) return player
+        dC[0][player - 1] += 1
+        if (dC[0][player - 1] === this.target) return player
     }
 
-    if (row === this.target - 1 - col) {
-        dC = this.diagCount[1]
-        dC[player - 1] += 1
-        if (dC[player - 1] === this.target) return player
+    if (row === this.target - col - 1) {
+        dC[1][player - 1] += 1
+        if (dC[1][player - 1] === this.target) return player
     }
 
     return 0
-
+     
 };
 
 /** 
