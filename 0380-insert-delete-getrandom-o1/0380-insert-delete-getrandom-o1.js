@@ -1,7 +1,7 @@
 
 var RandomizedSet = function() {
-    this.table = {}
-    this.arr = []
+    this.hmap = {}
+    this.array = []
 };
 
 /** 
@@ -9,9 +9,9 @@ var RandomizedSet = function() {
  * @return {boolean}
  */
 RandomizedSet.prototype.insert = function(val) {
-    if (val in this.table) return false
-    this.arr.push(val)
-    this.table[val] = this.arr.length - 1
+    if (val in this.hmap) return false
+    this.array.push(val)
+    this.hmap[val] = this.array.length-1
     return true
 };
 
@@ -20,12 +20,12 @@ RandomizedSet.prototype.insert = function(val) {
  * @return {boolean}
  */
 RandomizedSet.prototype.remove = function(val) {
-    if (!(val in this.table)) return false
-    let idx = this.table[val]
-    this.arr[idx] = this.arr[this.arr.length-1]
-    this.table[this.arr[this.arr.length-1]] = idx
-    this.arr.pop()
-    delete this.table[val]
+    if (!(val in this.hmap)) return false
+    let idx = this.hmap[val]
+    this.array[idx] = this.array[this.array.length - 1]
+    this.hmap[this.array[this.array.length - 1]] = idx
+    delete this.hmap[val]
+    this.array.pop()
     return true
 };
 
@@ -33,8 +33,8 @@ RandomizedSet.prototype.remove = function(val) {
  * @return {number}
  */
 RandomizedSet.prototype.getRandom = function() {
-    let rIdx = Math.floor(Math.random()*this.arr.length)
-    return this.arr[rIdx]
+    let rId = Math.floor(Math.random() * this.array.length)
+    return this.array[rId]
 };
 
 /** 
